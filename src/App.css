@@ -1,0 +1,28 @@
+.card {
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.bodya {
+    width: 200px;
+    height: 110px;
+    border: 1px solid cyan;
+    margin-bottom: 150px;
+}
+p {
+    margin-left: 50px;
+    font-weight: bolder;
+}
+
+.buts{
+    margin-left: 45px;
+}
+#bt1 {
+    margin-right: 5px;
+}
+#bt2 {
+    margin-left: 5px;
+}
